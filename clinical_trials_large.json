@@ -1,0 +1,752 @@
+[
+  {
+    "trial_id": "CT1000",
+    "title": "Trial for Asthma in Kolkata",
+    "conditions": [
+      "Asthma"
+    ],
+    "age_range": [
+      35,
+      65
+    ],
+    "gender": "Male",
+    "location": "Kolkata",
+    "inclusion_criteria": "Patients diagnosed with Asthma aged 35-65.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1001",
+    "title": "Trial for Depression in Pune",
+    "conditions": [
+      "Depression"
+    ],
+    "age_range": [
+      46,
+      56
+    ],
+    "gender": "All",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with Depression aged 46-56.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1002",
+    "title": "Trial for Breast Cancer in Kolkata",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "age_range": [
+      44,
+      56
+    ],
+    "gender": "All",
+    "location": "Kolkata",
+    "inclusion_criteria": "Patients diagnosed with Breast Cancer aged 44-56.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1003",
+    "title": "Trial for Breast Cancer in Kolkata",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "age_range": [
+      45,
+      75
+    ],
+    "gender": "Female",
+    "location": "Kolkata",
+    "inclusion_criteria": "Patients diagnosed with Breast Cancer aged 45-75.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1004",
+    "title": "Trial for COVID-19 in Hyderabad",
+    "conditions": [
+      "COVID-19"
+    ],
+    "age_range": [
+      38,
+      63
+    ],
+    "gender": "Male",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with COVID-19 aged 38-63.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1005",
+    "title": "Trial for Migraine in Pune",
+    "conditions": [
+      "Migraine"
+    ],
+    "age_range": [
+      37,
+      63
+    ],
+    "gender": "Female",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with Migraine aged 37-63.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1006",
+    "title": "Trial for Migraine in Delhi",
+    "conditions": [
+      "Migraine"
+    ],
+    "age_range": [
+      47,
+      60
+    ],
+    "gender": "Male",
+    "location": "Delhi",
+    "inclusion_criteria": "Patients diagnosed with Migraine aged 47-60.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1007",
+    "title": "Trial for COVID-19 in Chennai",
+    "conditions": [
+      "COVID-19"
+    ],
+    "age_range": [
+      32,
+      62
+    ],
+    "gender": "All",
+    "location": "Chennai",
+    "inclusion_criteria": "Patients diagnosed with COVID-19 aged 32-62.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1008",
+    "title": "Trial for Migraine in Hyderabad",
+    "conditions": [
+      "Migraine"
+    ],
+    "age_range": [
+      45,
+      61
+    ],
+    "gender": "Female",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Migraine aged 45-61.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1009",
+    "title": "Trial for Hypertension in Pune",
+    "conditions": [
+      "Hypertension"
+    ],
+    "age_range": [
+      33,
+      57
+    ],
+    "gender": "Male",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with Hypertension aged 33-57.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1010",
+    "title": "Trial for COVID-19 in Bangalore",
+    "conditions": [
+      "COVID-19"
+    ],
+    "age_range": [
+      36,
+      47
+    ],
+    "gender": "All",
+    "location": "Bangalore",
+    "inclusion_criteria": "Patients diagnosed with COVID-19 aged 36-47.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1011",
+    "title": "Trial for Type 2 Diabetes in Mumbai",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "age_range": [
+      25,
+      40
+    ],
+    "gender": "Female",
+    "location": "Mumbai",
+    "inclusion_criteria": "Patients diagnosed with Type 2 Diabetes aged 25-40.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1012",
+    "title": "Trial for Chronic Kidney Disease in Hyderabad",
+    "conditions": [
+      "Chronic Kidney Disease"
+    ],
+    "age_range": [
+      28,
+      49
+    ],
+    "gender": "Male",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Chronic Kidney Disease aged 28-49.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1013",
+    "title": "Trial for Asthma in Delhi",
+    "conditions": [
+      "Asthma"
+    ],
+    "age_range": [
+      20,
+      36
+    ],
+    "gender": "All",
+    "location": "Delhi",
+    "inclusion_criteria": "Patients diagnosed with Asthma aged 20-36.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1014",
+    "title": "Trial for Hypertension in Pune",
+    "conditions": [
+      "Hypertension"
+    ],
+    "age_range": [
+      24,
+      35
+    ],
+    "gender": "Male",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with Hypertension aged 24-35.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1015",
+    "title": "Trial for Stage II Lung Cancer in Pune",
+    "conditions": [
+      "Stage II Lung Cancer"
+    ],
+    "age_range": [
+      28,
+      55
+    ],
+    "gender": "Female",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with Stage II Lung Cancer aged 28-55.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1016",
+    "title": "Trial for Type 2 Diabetes in Delhi",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "age_range": [
+      45,
+      72
+    ],
+    "gender": "Female",
+    "location": "Delhi",
+    "inclusion_criteria": "Patients diagnosed with Type 2 Diabetes aged 45-72.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1017",
+    "title": "Trial for Chronic Kidney Disease in Kolkata",
+    "conditions": [
+      "Chronic Kidney Disease"
+    ],
+    "age_range": [
+      18,
+      46
+    ],
+    "gender": "Male",
+    "location": "Kolkata",
+    "inclusion_criteria": "Patients diagnosed with Chronic Kidney Disease aged 18-46.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1018",
+    "title": "Trial for Breast Cancer in Kolkata",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "age_range": [
+      21,
+      47
+    ],
+    "gender": "All",
+    "location": "Kolkata",
+    "inclusion_criteria": "Patients diagnosed with Breast Cancer aged 21-47.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1019",
+    "title": "Trial for Stage II Lung Cancer in Kolkata",
+    "conditions": [
+      "Stage II Lung Cancer"
+    ],
+    "age_range": [
+      35,
+      54
+    ],
+    "gender": "Female",
+    "location": "Kolkata",
+    "inclusion_criteria": "Patients diagnosed with Stage II Lung Cancer aged 35-54.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1020",
+    "title": "Trial for Hypertension in Chennai",
+    "conditions": [
+      "Hypertension"
+    ],
+    "age_range": [
+      26,
+      38
+    ],
+    "gender": "All",
+    "location": "Chennai",
+    "inclusion_criteria": "Patients diagnosed with Hypertension aged 26-38.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1021",
+    "title": "Trial for COVID-19 in Pune",
+    "conditions": [
+      "COVID-19"
+    ],
+    "age_range": [
+      40,
+      51
+    ],
+    "gender": "Male",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with COVID-19 aged 40-51.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1022",
+    "title": "Trial for Migraine in Mumbai",
+    "conditions": [
+      "Migraine"
+    ],
+    "age_range": [
+      25,
+      49
+    ],
+    "gender": "All",
+    "location": "Mumbai",
+    "inclusion_criteria": "Patients diagnosed with Migraine aged 25-49.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1023",
+    "title": "Trial for Chronic Kidney Disease in Hyderabad",
+    "conditions": [
+      "Chronic Kidney Disease"
+    ],
+    "age_range": [
+      45,
+      75
+    ],
+    "gender": "All",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Chronic Kidney Disease aged 45-75.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1024",
+    "title": "Trial for Breast Cancer in Mumbai",
+    "conditions": [
+      "Breast Cancer"
+    ],
+    "age_range": [
+      29,
+      42
+    ],
+    "gender": "Male",
+    "location": "Mumbai",
+    "inclusion_criteria": "Patients diagnosed with Breast Cancer aged 29-42.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1025",
+    "title": "Trial for COVID-19 in Pune",
+    "conditions": [
+      "COVID-19"
+    ],
+    "age_range": [
+      18,
+      45
+    ],
+    "gender": "All",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with COVID-19 aged 18-45.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1026",
+    "title": "Trial for Arthritis in Pune",
+    "conditions": [
+      "Arthritis"
+    ],
+    "age_range": [
+      48,
+      65
+    ],
+    "gender": "Female",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with Arthritis aged 48-65.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1027",
+    "title": "Trial for Asthma in Hyderabad",
+    "conditions": [
+      "Asthma"
+    ],
+    "age_range": [
+      24,
+      53
+    ],
+    "gender": "All",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Asthma aged 24-53.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1028",
+    "title": "Trial for Chronic Kidney Disease in Bangalore",
+    "conditions": [
+      "Chronic Kidney Disease"
+    ],
+    "age_range": [
+      36,
+      58
+    ],
+    "gender": "All",
+    "location": "Bangalore",
+    "inclusion_criteria": "Patients diagnosed with Chronic Kidney Disease aged 36-58.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1029",
+    "title": "Trial for Migraine in Delhi",
+    "conditions": [
+      "Migraine"
+    ],
+    "age_range": [
+      34,
+      55
+    ],
+    "gender": "Male",
+    "location": "Delhi",
+    "inclusion_criteria": "Patients diagnosed with Migraine aged 34-55.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1030",
+    "title": "Trial for COVID-19 in Pune",
+    "conditions": [
+      "COVID-19"
+    ],
+    "age_range": [
+      30,
+      48
+    ],
+    "gender": "Female",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with COVID-19 aged 30-48.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1031",
+    "title": "Trial for Arthritis in Kolkata",
+    "conditions": [
+      "Arthritis"
+    ],
+    "age_range": [
+      29,
+      48
+    ],
+    "gender": "Male",
+    "location": "Kolkata",
+    "inclusion_criteria": "Patients diagnosed with Arthritis aged 29-48.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1032",
+    "title": "Trial for Chronic Kidney Disease in Hyderabad",
+    "conditions": [
+      "Chronic Kidney Disease"
+    ],
+    "age_range": [
+      19,
+      35
+    ],
+    "gender": "All",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Chronic Kidney Disease aged 19-35.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1033",
+    "title": "Trial for Type 2 Diabetes in Mumbai",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "age_range": [
+      35,
+      63
+    ],
+    "gender": "Male",
+    "location": "Mumbai",
+    "inclusion_criteria": "Patients diagnosed with Type 2 Diabetes aged 35-63.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1034",
+    "title": "Trial for Hypertension in Chennai",
+    "conditions": [
+      "Hypertension"
+    ],
+    "age_range": [
+      37,
+      66
+    ],
+    "gender": "All",
+    "location": "Chennai",
+    "inclusion_criteria": "Patients diagnosed with Hypertension aged 37-66.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1035",
+    "title": "Trial for Hypertension in Bangalore",
+    "conditions": [
+      "Hypertension"
+    ],
+    "age_range": [
+      35,
+      60
+    ],
+    "gender": "Female",
+    "location": "Bangalore",
+    "inclusion_criteria": "Patients diagnosed with Hypertension aged 35-60.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1036",
+    "title": "Trial for Asthma in Delhi",
+    "conditions": [
+      "Asthma"
+    ],
+    "age_range": [
+      34,
+      47
+    ],
+    "gender": "Male",
+    "location": "Delhi",
+    "inclusion_criteria": "Patients diagnosed with Asthma aged 34-47.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1037",
+    "title": "Trial for Hypertension in Chennai",
+    "conditions": [
+      "Hypertension"
+    ],
+    "age_range": [
+      36,
+      58
+    ],
+    "gender": "Female",
+    "location": "Chennai",
+    "inclusion_criteria": "Patients diagnosed with Hypertension aged 36-58.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1038",
+    "title": "Trial for Migraine in Hyderabad",
+    "conditions": [
+      "Migraine"
+    ],
+    "age_range": [
+      18,
+      44
+    ],
+    "gender": "All",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Migraine aged 18-44.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1039",
+    "title": "Trial for Asthma in Pune",
+    "conditions": [
+      "Asthma"
+    ],
+    "age_range": [
+      27,
+      48
+    ],
+    "gender": "All",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with Asthma aged 27-48.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1040",
+    "title": "Trial for Type 2 Diabetes in Hyderabad",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "age_range": [
+      44,
+      67
+    ],
+    "gender": "All",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Type 2 Diabetes aged 44-67.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1041",
+    "title": "Trial for Type 2 Diabetes in Hyderabad",
+    "conditions": [
+      "Type 2 Diabetes"
+    ],
+    "age_range": [
+      31,
+      49
+    ],
+    "gender": "Female",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Type 2 Diabetes aged 31-49.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1042",
+    "title": "Trial for Depression in Hyderabad",
+    "conditions": [
+      "Depression"
+    ],
+    "age_range": [
+      42,
+      61
+    ],
+    "gender": "Female",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Depression aged 42-61.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1043",
+    "title": "Trial for Asthma in Kolkata",
+    "conditions": [
+      "Asthma"
+    ],
+    "age_range": [
+      33,
+      44
+    ],
+    "gender": "Female",
+    "location": "Kolkata",
+    "inclusion_criteria": "Patients diagnosed with Asthma aged 33-44.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1044",
+    "title": "Trial for COVID-19 in Delhi",
+    "conditions": [
+      "COVID-19"
+    ],
+    "age_range": [
+      34,
+      55
+    ],
+    "gender": "Female",
+    "location": "Delhi",
+    "inclusion_criteria": "Patients diagnosed with COVID-19 aged 34-55.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1045",
+    "title": "Trial for Depression in Pune",
+    "conditions": [
+      "Depression"
+    ],
+    "age_range": [
+      30,
+      56
+    ],
+    "gender": "All",
+    "location": "Pune",
+    "inclusion_criteria": "Patients diagnosed with Depression aged 30-56.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1046",
+    "title": "Trial for Arthritis in Delhi",
+    "conditions": [
+      "Arthritis"
+    ],
+    "age_range": [
+      22,
+      51
+    ],
+    "gender": "Male",
+    "location": "Delhi",
+    "inclusion_criteria": "Patients diagnosed with Arthritis aged 22-51.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1047",
+    "title": "Trial for Hypertension in Hyderabad",
+    "conditions": [
+      "Hypertension"
+    ],
+    "age_range": [
+      40,
+      69
+    ],
+    "gender": "All",
+    "location": "Hyderabad",
+    "inclusion_criteria": "Patients diagnosed with Hypertension aged 40-69.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1048",
+    "title": "Trial for Asthma in Delhi",
+    "conditions": [
+      "Asthma"
+    ],
+    "age_range": [
+      28,
+      55
+    ],
+    "gender": "All",
+    "location": "Delhi",
+    "inclusion_criteria": "Patients diagnosed with Asthma aged 28-55.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  },
+  {
+    "trial_id": "CT1049",
+    "title": "Trial for Chronic Kidney Disease in Mumbai",
+    "conditions": [
+      "Chronic Kidney Disease"
+    ],
+    "age_range": [
+      35,
+      59
+    ],
+    "gender": "Male",
+    "location": "Mumbai",
+    "inclusion_criteria": "Patients diagnosed with Chronic Kidney Disease aged 35-59.",
+    "exclusion_criteria": "Patients with severe allergies or immune disorders."
+  }
+]
